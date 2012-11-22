@@ -1,0 +1,17 @@
+@-webkit-keyframes go{
+    from{
+        color:hsla(0,0%,20%,1);
+    }
+    to{
+        color:#317100;
+    }
+}
+
+@-webkit-keyframes nav-step{
+    from{
+        color:#9c0;
+    }
+    to{
+        color:#DCEEA8;
+    }
+}
